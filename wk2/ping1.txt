@@ -1,0 +1,17 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping tvtropes.org -w 15
+PING tvtropes.org (13.33.163.67) 56(84) bytes of data.
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=1 ttl=247 time=1.64 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=2 ttl=247 time=0.726 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=3 ttl=247 time=0.794 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=4 ttl=247 time=0.774 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=5 ttl=247 time=0.793 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=6 ttl=247 time=1.55 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=7 ttl=247 time=0.894 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=8 ttl=247 time=0.797 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=9 ttl=247 time=0.780 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=10 ttl=247 time=0.803 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=11 ttl=247 time=0.810 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=12 ttl=247 time=0.765 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=13 ttl=247 time=0.741 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=14 ttl=247 time=2.48 ms
+64 bytes from server-13-33-163-67.yto50.r.cloudfront.net (13.33.163.67): icmp_seq=15 ttl=247 time=0.805 ms

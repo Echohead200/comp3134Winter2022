@@ -1,0 +1,24 @@
+Jeffrey@DESKTOP-CDSI5T4 MINGW64 ~ (master)
+$ tracert tvtropes.org
+
+Tracing route to tvtropes.org [13.33.163.62]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     2 ms  mynetwork [192.168.2.1]
+  2     4 ms     9 ms    10 ms  10.11.5.121
+  3     *        *        *     Request timed out.
+  4     4 ms     4 ms     4 ms  tcore4-toronto63_39.net.bell.ca [64.230.59.204]
+  5     7 ms     7 ms     7 ms  tcore4-toronto63-bundle-ether44.net.bell.ca [142.124.127.206]
+  6     3 ms     3 ms     3 ms  dis68-toronto63_10-0-0.net.bell.ca [64.230.106.107]
+  7     4 ms     4 ms     4 ms  bx3-torontoxn_hundredgige0-2-0-0.net.bell.ca [64.230.97.147]
+  8     5 ms     9 ms     5 ms  99.82.178.222
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     3 ms     3 ms     3 ms  server-13-33-163-62.yto50.r.cloudfront.net [13.33.163.62]
+
+Trace complete.

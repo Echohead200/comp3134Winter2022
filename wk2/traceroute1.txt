@@ -1,0 +1,14 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# traceroute tvtropes.org
+traceroute to tvtropes.org (13.33.163.58), 30 hops max, 60 byte packets
+ 1  162.243.190.7 (162.243.190.7)  1.613 ms  1.537 ms  1.493 ms
+ 2  138.197.249.80 (138.197.249.80)  1.799 ms  1.758 ms 138.197.249.76 (138.197.249.76)  1.593 ms
+ 3  138.197.249.90 (138.197.249.90)  1.868 ms 138.197.249.86 (138.197.249.86)  2.033 ms 138.197.249.78 (138.197.249.78)  1.863 ms
+ 4  amazon-a.ip4.torontointernetxchange.net (206.108.35.36)  2.141 ms amazon-b.ip4.torontointernetxchange.net (206.108.35.37)  2.013 ms  1.973 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  server-13-33-163-58.yto50.r.cloudfront.net (13.33.163.58)  1.110 ms  1.140 ms  0.641 ms
